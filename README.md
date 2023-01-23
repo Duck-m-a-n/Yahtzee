@@ -1,6 +1,6 @@
 # Yahtzee
 
-My python yahztee Game!
+My python Yahtzee Game!
 
 Including Upper and Lower section scoring with bonus for up to 10 players.
 
